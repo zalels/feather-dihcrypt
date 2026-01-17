@@ -1,1 +1,1 @@
-decrypts feathers accounts.txt and prints it
+decrypts feathers account.txt and prints it
